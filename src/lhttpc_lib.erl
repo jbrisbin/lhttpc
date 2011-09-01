@@ -29,8 +29,6 @@
 %%% @doc
 %%% This module implements various library functions used in lhttpc.
 %%% @end
-%%% @type boolean() = boolean().
-%%% @type iolist() = [] | binary() | [char() | binary() | iolist()].
 -module(lhttpc_lib).
 
 -export([
